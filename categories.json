@@ -1,0 +1,133 @@
+{
+    "name": "home",
+    "url": "https://www.lowes.com",
+    "categories": [
+        {
+            "name": "Electrical",
+            "url": "https://www.lowes.com/c/Electrical",
+            "categories": [
+                {
+                    "name": "Breaker Boxes",
+                    "url": "https://www.lowes.com/pl/Breaker-Boxes/4294722478"
+                },
+                {
+                    "name": "Circuit Breakers",
+                    "url": "https://www.lowes.com/pl/Circuit-Breakers/4294722478"
+                },
+                {
+                    "name": "Conduit & Conduit Fittings",
+                    "url": "https://www.lowes.com/pl/Conduit-Conduit-Fittings/4294653950?goToProdList=true"
+                },
+                {
+                    "name": "Cables & Connectors",
+                    "url": "https://www.lowes.com/pl/Cables-Connectors/2410496261192"
+                },
+                {
+                    "name": "Electrical Wire & Cable",
+                    "url": "https://www.lowes.com/pl/Electrical-Wire-Cable/4294722493"
+                },
+                {
+                    "name": "Electrical Outlets & Plugs",
+                    "url": "https://www.lowes.com/pl/Electrical-Outlets-Plugs/4294722477?goToProdList=true"
+                },
+                {
+                    "name": "Electrical Boxes & Covers",
+                    "url": "https://www.lowes.com/pl/electrical-boxes-covers/4294653960"
+                },
+                {
+                    "name": "Light Switches & Dimmers",
+                    "url": "https://www.lowes.com/pl/light-switches-dimmers/4294722447?goToProdList=true"
+                },
+                {
+                    "name": "Wall Plates & Jacks",
+                    "url": "https://www.lowes.com/pl/wall-plates-inserts/wall-plates/4294722460?goToProdList=true"
+                },
+                {
+                    "name": "Plugs & Connectors",
+                    "url": "https://www.lowes.com/pl/electrical-outlets-plugs/plugs-connectors/4294722553"
+                },
+                {
+                    "name": "Extension Cords",
+                    "url": "https://www.lowes.com/pl/extension-cords-surge-protectors/extension-cords/4294542238"
+                },
+                {
+                    "name": "Testers & Tools",
+                    "categories": [
+                        {
+                            "name": "Multimeters",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/test-meters/multimeters/3121204765180"
+                        },
+                        {
+                            "name": "Clamp Meters",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/test-meters/clamp-meter/4294722453-921815817171"
+                        },
+                        {
+                            "name": "Voltage Meters",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/test-meters/4294722453-921433152442-1020675434099"
+                        },
+                        {
+                            "name": "Noncontact Testers",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/test-meters/4294722453-921433152442-1020675434099-2029232247"
+                        },
+                        {
+                            "name": "Inspection Cameras",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/inspection-cameras/3020090273686"
+                        },
+                        {
+                            "name": "Wire Cutters",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/electrical-hand-tools/wire-strippers-crimpers-cutters/4294722450"
+                        },
+                        {
+                            "name": "Electrical Pliers",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/electrical-hand-tools/electrical-pliers-plier-sets/5021966674155"
+                        },
+                        {
+                            "name": "Electrical Screwdrivers",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/electrical-hand-tools/electrical-screwdrivers/4310428210234"
+                        },
+                        {
+                            "name": "Wire & Cable Pulling",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/wire-pulling-conduit-tools/conduit-benders-accessories/2911530603779"
+                        },
+                        {
+                            "name": "Conduit Benders",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/wire-pulling-conduit-tools/conduit-benders-accessories/2911530603779"
+                        },
+                        {
+                            "name": "Fish Tape & Poles",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/wire-pulling-conduit-tools/fish-tape-poles/4294722452"
+                        },
+                        {
+                            "name": "Test Meter Accessories",
+                            "url": "https://www.lowes.com/pl/electrical-testers-tools/test-meters/test-meter-accessories/4294722454"
+                        }
+                    ]
+                },
+                {
+                    "name": "Generators",
+                    "url": "https://www.lowes.com/pl/generators/4294641574?goToProdList=true"
+                },
+                {
+                    "name": "Solar Power",
+                    "url": "https://www.lowes.com/pl/solar-power/4294722437?goToProdList=true"
+                },
+                {
+                    "name": "Security Cameras",
+                    "url": "https://www.lowes.com/pl/home-security/security-surveillance-cameras/4294546213"
+                },
+                {
+                    "name": "Speakers",
+                    "url": "https://www.lowes.com/pl/electronics/audio/speakers/2121250443857"
+                },
+                {
+                    "name": "Doorbells",
+                    "url": "https://www.lowes.com/pl/doorbells/4294710780?goToProdList=true"
+                },
+                {
+                    "name": "Fire Safety",
+                    "url": "https://www.lowes.com/pl/fire-safety/1897086949?goToProdList=true"
+                }
+            ]
+        }
+    ]
+}
